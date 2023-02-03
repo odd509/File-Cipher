@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="261da1c2-c891-49dc-ac55-985c396d10ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/Utils.java" afterDir="false" />
-    </list>
+    <list default="true" id="261da1c2-c891-49dc-ac55-985c396d10ae" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +21,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Assignment 2 - Hashing" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -34,6 +32,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667595772250</updated>
       <workItem from="1667595773756" duration="102000" />
+      <workItem from="1668258120102" duration="616000" />
     </task>
     <servers />
   </component>

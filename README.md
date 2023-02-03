@@ -1,4 +1,5 @@
 ## How to use
+FileCipher is a tool that is used to encrypt or decrypt the given input with provided key values.
 
 After cloning the repository, compile it in src with *javac \*.java*
 Then run the compiled code with arguments *FileCipher −e −i inputFile −o outFile algorithm mode key-file*
